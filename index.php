@@ -25,6 +25,9 @@ a:hover {
     color: black;
     border-radius: 5px;
 }
+    footer{
+        color:silver;
+    }
 </style>
 </head>
 <body>
@@ -36,5 +39,6 @@ a:hover {
 <a href="candidate_login.php">Candidate Login</a> |
 <a href="results.php">Live Results</a>
 </div>
+    <footer>copy@ Online Voting System 2025</footer>
 </body>
 </html>
