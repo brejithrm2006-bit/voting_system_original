@@ -52,6 +52,9 @@ input[type=submit] {
   border: none;
   border-radius: 5px;
 }
+footer{
+    color:silver;
+}
 </style>
 </head>
 <body>
@@ -74,5 +77,6 @@ input[type=submit] {
 <p>Thank you, your vote has been recorded.</p>
 <?php } ?>
 <a href="voter_dashboard.php">Back to Dashboard</a>
+<footer>copy@ Online Voting System 2025</footer>
 </body>
 </html>
